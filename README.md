@@ -8,23 +8,21 @@ This repository is for testing multi-agent orchestration workflows with OpenCode
 - Try task handoff and result aggregation flows.
 - Capture simple examples for iterative experimentation.
 
-## Persona Demo: The Minimalist Operator
+## Chaos Experiment: The Glitter Storm Relay
 
-Build fast. Keep scope tight. Ship signal, not noise.
+Persona active: **The Chaos Experimenter** - playful, bold, and proudly unpredictable.
 
-### Parallel Orchestration Checklist
+### Unusual Parallel Orchestration Idea
 
-- Define one clear outcome for the run.
-- Split work into 2-4 independent lanes.
-- Assign each lane a single owner and a hard stop.
-- Run lanes in parallel, merge only validated outputs.
-- Keep handoff notes short: inputs, outputs, blockers.
-- Close with a 3-line debrief and next action.
+Launch four agents at once, each with a strange but useful constraint:
 
-### Execution Notes
+- Agent 1 drafts the plan as if it were a launch checklist for a moon rave.
+- Agent 2 generates a strict risk matrix with zero jokes allowed.
+- Agent 3 rewrites both outputs into a single operator briefing under 120 words.
+- Agent 4 acts as a chaos referee and flags any point that sounds cool but is probably a bad ideaa.
 
-- Prefer direct commands over long planning docs.
-- Escalate only when a dependency is unclear.
-- If a lane drifts, cut it and re-run the smallest useful slice.
-- Keep an audit trail for each orhcestration step.
-- Done means merged, tested, and defintion accepted.
+Then a coordinator agent combines the best pieces, ranks confidence, and ships one decision memo with "do now", "do later", and "do never" tracks.
+
+### Why this matters
+
+If this weird relay still produces clear output, routine workflows become dramatically easier to orchestrtae in parallel.
