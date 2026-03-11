@@ -24,6 +24,6 @@ The Systems Architect treats agent collaboration as an explicit control system: 
 1. Planning agent converts a product request into four lanes: docs, implementation notes, validation, and release prep.
 2. Docs and validation agents run in parallel; each produces structured output tied to acceptance criteria.
 3. Integrator agent merges both artifacts, flags conflicts, and requests targeted retries where evidence is weak.
-4. Release agent stages commit and PR metadata so final handoff follows a repeatable orhcestration pathway.
+4. Release agent stages commit and PR metadata so final handoff follows a repeatable orchestration pathway.
 
 This architecture biases toward deterministic execution: parallel where safe, serialized where state transitions are critical.
