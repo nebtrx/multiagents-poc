@@ -27,3 +27,11 @@ The Systems Architect treats agent collaboration as an explicit control system: 
 4. Release agent stages commit and PR metadata so final handoff follows a repeatable orchestration pathway.
 
 This architecture biases toward deterministic execution: parallel where safe, serialized where state transitions are critical.
+
+### Minimalist Execution Checklist
+
+- Prefer direct commands over long planning docs.
+- Escalate only when a dependency is unclear.
+- If a lane drifts, cut it and re-run the smallest useful slice.
+- Keep an audit trail for each orchestration step.
+- Done means merged, tested, and definition accepted.
